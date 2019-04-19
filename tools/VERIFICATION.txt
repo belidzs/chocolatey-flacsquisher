@@ -1,0 +1,7 @@
+﻿
+
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+ 
+Download appropriate version from https://sourceforge.net/projects/flacsquisher/files/flacsquisher/ and compare checksum
